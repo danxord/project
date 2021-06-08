@@ -22,4 +22,5 @@ for (let ztest of z) {
 }
 
 arr.forEach(function (item, i, arr) {
-            console.log(`${i}: ${item} внутри массива ${arr}`)
+    console.log(`${i}: ${item} внутри массива ${arr}`);
+});
